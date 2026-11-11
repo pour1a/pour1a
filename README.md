@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Pouria 👋
 
-<!--
-**pour1a/pour1a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Forward Deployed Engineer
 
-Here are some ideas to get you started:
+I'm building my skills at the intersection of software engineering, AI, and real-world problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on learning how to design, build, and deploy practical software solutions that solve real business problems.
+
+### 🎯 Current Focus
+
+- Learning Python and software engineering fundamentals
+- Working with APIs and databases
+- Exploring AI-powered applications
+- Building practical, real-world projects
+- Learning Git, GitHub, and deployment workflows
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, SQL
+- **Tools:** Git, GitHub, VS Code
+- **Currently Exploring:** REST APIs, Automation, AI Integration
+
+### 🚀 My Goal
+
+To become a Forward Deployed Engineer who can bridge the gap between technology and real-world business needs.
+
+---
+
+*Building, learning, and shipping — one project at a time.*
